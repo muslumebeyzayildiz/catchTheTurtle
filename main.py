@@ -47,4 +47,5 @@ tosbik.onclick(tiklandi)
 sayaci_guncelle()
 
 turtle.listen()
-turtle.mainloop()
+turtle.mainloop()#devamlı çalışan bir döngü eş zamanlı kontrol, saniyede binlerce kez kontrol.
+#time.sleep bloklardı bunu
