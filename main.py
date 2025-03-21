@@ -17,6 +17,7 @@ sayac_turtle.penup()
 sayac_turtle.hideturtle()
 sayac_turtle.goto(0, 200)  # Sayacı yukarıda göstermek için
 
+
 def sayaci_guncelle():
     sayac_turtle.clear()
     sayac_turtle.write(f"Tıklama Sayısı: {tik_sayisi}", align="center", font=("Arial", 16, "bold"))
